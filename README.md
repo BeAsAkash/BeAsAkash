@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Akash.
+- I’m currently working on Graphics Designing Projects.
+- I’m currently learning c++. 
 
 <!--
 **BeAsAkash/BeAsAkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
