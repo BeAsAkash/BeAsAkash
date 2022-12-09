@@ -1,5 +1,4 @@
 ### Hi there, I am Akash.
-- I’m currently working on AI_ML Projects.
 - I’m currently learning how to be a full stack web developer.
 - Ask me about front end development.
 - Reach me at : [Email](mailto:kumaraadarsh8318@gmail.com)
