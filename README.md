@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">Aspiring Software Developer | Web Developer | Competitive Programmer | Experience with C,C++,Database Systems and Python.</h3>
+<h3 align="center">Aspiring  Developer | Competitive Programmer | Experienced with Programming Languages like C,C++ and Python with a bit knowledge of DBMS.</h3>
 
 - 🔭 I’m currently working on **my development skills and various projects.**
 
-- 🌱 I’m currently learning **JavaScript | AI | ML.**
+- 🌱 I’m currently learning **JavaScript | ML.**
 
-- 👯 I’m looking to collaborate on **some ML projects.**
+- 👯 I’m looking to collaborate on **some Front-End Designs for Website.**
 
 - 💬 Ask me about **Web Development.**
 
