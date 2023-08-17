@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">Aspiring  Software Developer | Web Developer | Competitive Programmer | Experienced with Programming Languages like C,C++ and Python with a bit knowledge of DBMS.</h3>
-<img align="right" alt="Work!" width="290"  src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
+<img align="right" alt="Work!" width="280"  src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
 
 - 🌱 I’m currently learning backend frameworks.
 
@@ -11,12 +11,12 @@
 
 - 📫 Reach me out through my[ Email](mailto:kumaraadarsh8318@gmail.com)
 
-<h2><p align="left">My Skills :</p></h2>
+<h2><p align="center">My Skills :</p></h2>
 <p align="center">
      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql,linux,git&perline=13">
 </p>
 
-<h2><p align="left">My Socials :</p></h2>
+<h2><p align="center">My Socials :</p></h2>
 <p align="center">
 <a href="https://www.github.com/BeAsAkash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
 <a href="https://discord.com/users/beasakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /></a>
