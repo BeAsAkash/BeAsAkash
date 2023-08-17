@@ -11,12 +11,12 @@
 
 - 📫 Reach me out through my[ Email](mailto:kumaraadarsh8318@gmail.com)
 
-<h2><p align="center">My Skills :</p></h2>
+<h2><p align="left">My Skills :</p></h2>
 <p align="center">
      <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql,linux,git&perline=13">
 </p>
 
-<h2><p align="center">My Socials :</p></h2>
+<h2><p align="left">My Socials :</p></h2>
 <p align="center">
 <a href="https://www.github.com/BeAsAkash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a>
 <a href="https://discord.com/users/beasakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /></a>
