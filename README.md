@@ -25,7 +25,7 @@
 <a href="http://www.instagram.com/_.BeAsAkash._" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/akash-kumar-693a91226/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
 <a href="https://www.leetcode.com/beasakash" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beasakash" height="40" width="40" /></a>
-<a href="https://www.twitter.com/k_akash20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a></p>
+<a href="https://www.twitter.com/k_akash20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a>
 </p>
 
 <br>
