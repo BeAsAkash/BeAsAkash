@@ -15,7 +15,7 @@
 
 <h2><p align="center">My Skills :</p></h2>
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,mysql,linux,git&perline=13">
+     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,tailwind,react,nodejs,express,mysql,mongodb,firebase,linuxgit &perline=13">
 </p>
 
 <h2><p align="center">My Socials :</p></h2>
